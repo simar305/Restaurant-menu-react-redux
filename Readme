@@ -1,0 +1,32 @@
+-Parser
+- Dev Build
+- Local server
+- HMR - Hot Module Replacement(automatically refresh)
+- Used File Watchers Algorithm - written in C++
+- Caching - Faster Builds
+- Image optimizations
+- Bundling
+- Compresses files
+- Minification of files
+
+Food Ordering App
+/*
+Header
+- Logo 
+- Nav items
+Body
+- Search
+- Res Container
+---- Res Cards
+Footer
+- Links, Addresses
+
+# Redux Toolkit
+  - Install @reduxjs/toolkit and react-redux
+  - Build our store
+  - Connect our store to our app
+  - Slice (cartSlice)
+  - Dispatch (action)
+  - Selector
+*/
+
